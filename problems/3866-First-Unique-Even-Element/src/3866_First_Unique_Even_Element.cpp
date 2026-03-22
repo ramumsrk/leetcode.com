@@ -44,7 +44,7 @@ firstUniqueEven(
     // vector
     for (int i {}; i < static_cast<int>(nums.size()); i += 1) {
         if (key == nums[i]) {
-            key = i;
+            key = nums[i];
             break;
         }
     }
