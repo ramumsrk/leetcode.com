@@ -28,27 +28,21 @@ firstUniqueEven(
     }
     // there are no even numbers in input vector
     if (n_o.size() == 0) return -1;
-    // key of first even number that has only 1
-    // occurence in input vector. -1 if there is
-    // no such occurrence
-    int key {-1};
-    // check the first even number that has an
-    // occurrence of only 1
-    for (const auto& [k, v] : n_o) {
-        if (v == 1) {
-            key = k;
-            break;
-        }
-    }
-    // look-up the index of the even number in
-    // vector
+    // first even number in vector that has only
+    // an occurrence of 1. -1 if there is no such
+    // even number
+    int first_even_number {-1};
     for (int i {}; i < static_cast<int>(nums.size()); i += 1) {
-        if (key == nums[i]) {
-            key = nums[i];
+        if (
+            nums[i]%2 == 0
+            &&
+            n_o[nums[i]] == 1
+        ) {
+            first_even_number = nums[i];
             break;
         }
     }
-    return key;
+    return first_even_number;
 }
 
 auto
