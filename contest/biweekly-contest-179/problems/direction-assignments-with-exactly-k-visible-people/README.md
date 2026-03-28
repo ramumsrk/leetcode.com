@@ -1,0 +1,1 @@
+# [Q2. Direction Assignments with Exactly K Visible People](https://leetcode.com/contest/biweekly-contest-179/problems/direction-assignments-with-exactly-k-visible-people/description/)
