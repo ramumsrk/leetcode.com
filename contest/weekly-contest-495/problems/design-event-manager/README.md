@@ -1,0 +1,1 @@
+# [Q2. Design Event Manager](https://leetcode.com/contest/weekly-contest-495/problems/design-event-manager/description/)
