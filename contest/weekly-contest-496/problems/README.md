@@ -1,0 +1,5 @@
+# [problems](https://leetcode.com/contest/weekly-contest-496/problems)
+1. [Q1. Mirror Frequency Distance](./mirror-frequency-distance/)
+2. [Q2. Integers With Multiple Sum of Two Cubes](./integers-with-multiple-sum-of-two-cubes/)
+3. [Q3. Minimum Increase to Maximize Special Indices](./minimum-increase-to-maximize-special-indices/)
+4. [Q4. Minimum Operations to Achieve At Least K Peaks](./minimum-operations-to-achieve-at-least-k-peaks/)

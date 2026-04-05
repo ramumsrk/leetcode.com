@@ -1,0 +1,1 @@
+# [Q3. Minimum Increase to Maximize Special Indices](https://leetcode.com/contest/weekly-contest-496/problems/minimum-increase-to-maximize-special-indices/description/)
