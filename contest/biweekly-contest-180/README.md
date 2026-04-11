@@ -3,3 +3,5 @@
 2. [Q2. Count Digit Appearances](./problems/count-digit-appearances/)
 3. [Q3. Minimum Operations to Transform Array into Alternating Prime](./problems/minimum-operations-to-transform-array-into-alternating-prime/)
 4. [Q4. Maximum Value of Concatenated Binary Segments](./problems/maximum-value-of-concatenated-binary-segments/)
+## Ranking
+[ranking](https://leetcode.com/contest/biweekly-contest-180/ranking/)
