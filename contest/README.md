@@ -1,6 +1,5 @@
 # [contest](../contest/)
-496. [Weekly Contest 496](./weekly-contest-496/)
-495. [Weekly Contest 495](./weekly-contest-495/)
-493. [Weekly Contest 493](../contest/weekly-contest-493/)
-180. [Biweekly Contest 180](./biweekly-contest-180/)
-179. [Biweekly Contest 179](./biweekly-contest-179/)
+## [Biweekly Contest](../contest/Biweekly-Contest/)
+Contest held once every two weeks on _Saturday_ at _20:00_ _PM_ _IST_
+## [Weekly Contest](../contest/Weekly-Contest/)
+Contest held every week on _Sunday_ at _08:00_ _AM_ _IST_
