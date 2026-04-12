@@ -1,0 +1,5 @@
+# [problems](https://leetcode.com/contest/weekly-contest-497/problems)
+1. [Q1. Find the Degree of Each Vertex](./find-the-degree-of-each-vertex/)
+2. [Q2. Angles of a Triangle](./angles-of-a-triangle/)
+3. [Q3. Longest Balanced Substring After One Swap](./longest-balanced-substring-after-one-swap/)
+4. [Q4. Good Subsequence Queries](./good-subsequence-queries/)

@@ -1,0 +1,1 @@
+# [Q2. Angles of a Triangle](https://leetcode.com/contest/weekly-contest-497/problems/angles-of-a-triangle/description/)
