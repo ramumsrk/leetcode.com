@@ -1,0 +1,1 @@
+# [Q4. Count Good Integers on a Grid Path](https://leetcode.com/contest/weekly-contest-498/problems/count-good-integers-on-a-grid-path/description)
