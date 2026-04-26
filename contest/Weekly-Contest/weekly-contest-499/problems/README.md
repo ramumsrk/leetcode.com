@@ -1,0 +1,5 @@
+# [problems](https://leetcode.com/contest/weekly-contest-499/problems)
+1. [Q1. Valid Elements in an Array](./valid-elements-in-an-array/)
+2. [Q2. Sort Vowels by Frequency](./sort-vowels-by-frequency/)
+3. [Q3. Minimum Operations to Make Array Non Decreasing](./minimum-operations-to-make-array-non-decreasing/)
+4. [Q4. Maximum Sum of Alternating Subsequence With Distance at Least K](./maximum-sum-of-alternating-subsequence-with-distance-at-least-k/)
