@@ -1,4 +1,5 @@
 # [Problems](https://leetcode.com/problemset/)
+53. [53. Maximum Subarray](./53-Maximum-Subarray/)
 3912. [3912. Valid Elements in an Array](./3912-Valid-Elements-in-an-Array/)
 3866. [3866. First Unique Even Element](./3866-First-Unique-Even-Element/)
 3857. [3857. Minimum Cost to Split into Ones](./3857-minimum-cost-to-split-into-ones/)
