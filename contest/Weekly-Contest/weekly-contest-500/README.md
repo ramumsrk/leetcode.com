@@ -1,0 +1,5 @@
+# [Weekly Contest 500](https://leetcode.com/contest/weekly-contest-500/)
+1. [Q1. Count Indices With Opposite Parity](./problems/count-indices-with-opposite-parity/)
+2. [Q2. Sum of Primes Between Number and Its Reverse](./problems/sum-of-primes-between-number-and-its-reverse/)
+3. [Q3. Minimum Cost to Move Between Indices](./problems/minimum-cost-to-move-between-indices/)
+4. [Q4. Maximize Fixed Points After Deletions](./problems/maximize-fixed-points-after-deletions/)

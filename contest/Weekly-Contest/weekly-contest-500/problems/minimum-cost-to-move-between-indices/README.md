@@ -1,0 +1,1 @@
+# [Q3. Minimum Cost to Move Between Indices](https://leetcode.com/contest/weekly-contest-500/problems/minimum-cost-to-move-between-indices/description/)

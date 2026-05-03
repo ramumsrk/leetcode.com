@@ -1,0 +1,1 @@
+# [Q4. Maximize Fixed Points After Deletions](https://leetcode.com/contest/weekly-contest-500/problems/maximize-fixed-points-after-deletions/description/)
