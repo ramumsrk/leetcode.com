@@ -1,0 +1,1 @@
+# [Q3. Minimum Generations to Target Point](https://leetcode.com/contest/biweekly-contest-182/problems/minimum-generations-to-target-point/description/)
