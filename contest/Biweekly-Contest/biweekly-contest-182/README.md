@@ -3,3 +3,5 @@
 2. [Q2. Minimum Flips to Make Binary String Coherent](./problems/minimum-flips-to-make-binary-string-coherent/)
 3. [Q3. Minimum Generations to Target Point](./problems/minimum-generations-to-target-point/)
 4. [Q4. Minimum Threshold Path With Limited Heavy Edges](./problems/minimum-threshold-path-with-limited-heavy-edges/)
+## Ranking
+[Ranking of Biweekly Contest 182](https://leetcode.com/contest/biweekly-contest-182/ranking/?region=global_v2)
