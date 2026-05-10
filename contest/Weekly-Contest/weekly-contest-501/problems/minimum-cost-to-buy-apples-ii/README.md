@@ -1,0 +1,1 @@
+# [Q4. Minimum Cost to Buy Apples](https://leetcode.com/contest/weekly-contest-501/problems/minimum-cost-to-buy-apples-ii/description/)

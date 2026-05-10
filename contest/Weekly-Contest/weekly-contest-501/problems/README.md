@@ -1,0 +1,5 @@
+# [problems](https://leetcode.com/contest/weekly-contest-501/problems)
+1. [Q1. Concatenate Array With Reverse](./concatenate-array-with-reverse/)
+2. [Q2. Count Valid Word Occurrences](./count-valid-word-occurrences/)
+3. [Q3. Minimize Array Sum Using Divisible Replacements](./minimize-array-sum-using-divisible-replacements/)
+4. [Q4. Minimum Cost to Buy Apples II](./minimum-cost-to-buy-apples-ii/)
