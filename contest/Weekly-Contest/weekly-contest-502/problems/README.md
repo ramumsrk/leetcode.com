@@ -1,0 +1,5 @@
+# [problems](https://leetcode.com/contest/weekly-contest-502/problems)
+1. [Q1. Check Adjacent Digit Differences](./check-adjacent-digit-differences/)
+2. [Q2. Count K-th Roots in a Range](./count-k-th-roots-in-a-range/)
+3. [Q3. Largest Local Values in a Matrix II](./largest-local-values-in-a-matrix-ii/)
+4. [Q4. Smallest Unique Subarray](./smallest-unique-subarray/)
