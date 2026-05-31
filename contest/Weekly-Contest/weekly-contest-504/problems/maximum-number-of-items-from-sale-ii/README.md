@@ -1,0 +1,1 @@
+# [Q3. Maximum Number of Items From Sale II](https://leetcode.com/contest/weekly-contest-504/problems/maximum-number-of-items-from-sale-ii/description/)

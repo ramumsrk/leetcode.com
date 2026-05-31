@@ -1,0 +1,5 @@
+# [problems](https://leetcode.com/contest/weekly-contest-504/problems)
+1. [Q1. Digit Frequency Score](./digit-frequency-score/)
+2. [Q2. Maximum Number of Items From Sale I](./maximum-number-of-items-from-sale-i/)
+3. [Q3. Maximum Number of Items From Sale II](./maximum-number-of-items-from-sale-ii/)
+4. [Q4. Lexicographically Maximum MEX Array](./lexicographically-maximum-mex-array/)

@@ -1,5 +1,6 @@
 # Weekly Contest
 ## [Contest](../../contest/Weekly-Contest/)
+504. [Weekly Contest 504](./weekly-contest-504/)
 502. [Weekly Contest 502](./weekly-contest-502/)
 501. [Weekly Contest 501](./weekly-contest-501/)
 500. [Weekly Contest 500](./weekly-contest-500/)
