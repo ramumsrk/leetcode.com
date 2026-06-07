@@ -1,0 +1,1 @@
+# [Q3. Maximum Sum of M Non-Overlapping Subarrays I](https://leetcode.com/contest/weekly-contest-505/problems/maximum-sum-of-m-non-overlapping-subarrays-i/description/)

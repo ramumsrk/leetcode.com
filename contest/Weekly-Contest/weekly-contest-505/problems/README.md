@@ -1,0 +1,5 @@
+# [problems](https://leetcode.com/contest/weekly-contest-505/problems)
+1. [Q1. Sum of Compatible Numbers in Range I](./sum-of-compatible-numbers-in-range-i/)
+2. [Q2. Valid Binary Strings With Cost Limit](./valid-binary-strings-with-cost-limit/)
+3. [Q3. Maximum Sum of M Non-Overlapping Subarrays I](./maximum-sum-of-m-non-overlapping-subarrays-i/)
+4. [Q4. Maximum Sum of M Non-Overlapping Subarrays II](./maximum-sum-of-m-non-overlapping-subarrays-ii/)
