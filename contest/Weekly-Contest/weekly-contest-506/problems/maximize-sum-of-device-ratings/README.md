@@ -1,0 +1,1 @@
+# [Q3. Maximize Sum of Device Ratings](https://leetcode.com/contest/weekly-contest-506/problems/maximize-sum-of-device-ratings/description/)

@@ -1,0 +1,1 @@
+# [Q2. Frequency Balance Subarray](https://leetcode.com/contest/weekly-contest-506/problems/frequency-balance-subarray/description/)

@@ -1,0 +1,5 @@
+# [problems](https://leetcode.com/contest/weekly-contest-506/problems)
+1. [Q1. Check Good Integer](./check-good-integer/)
+2. [Q2. Frequency Balance Subarray](./frequency-balance-subarray/)
+3. [Q3. Maximize Sum of Device Ratings](./maximize-sum-of-device-ratings/)
+4. [Q4. Maximum Subarray Sum After at Most K Swaps](./maximum-subarray-sum-after-at-most-k-swaps/)
