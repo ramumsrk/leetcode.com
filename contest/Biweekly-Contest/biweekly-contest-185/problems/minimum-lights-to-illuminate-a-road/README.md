@@ -1,0 +1,1 @@
+# [Q2. Minimum Lights to Illuminate a Road](https://leetcode.com/contest/biweekly-contest-185/problems/minimum-lights-to-illuminate-a-road/description/)
