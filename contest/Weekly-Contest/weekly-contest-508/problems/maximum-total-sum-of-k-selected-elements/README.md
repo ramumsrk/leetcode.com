@@ -1,0 +1,1 @@
+# [Q1. Maximum Total Sum of K Selected Elements](https://leetcode.com/contest/weekly-contest-508/problems/maximum-total-sum-of-k-selected-elements/description/)

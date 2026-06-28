@@ -1,0 +1,1 @@
+# [Q4. Minimum Time to Reach Target With Limited Power](https://leetcode.com/contest/weekly-contest-508/problems/minimum-time-to-reach-target-with-limited-power/description/)
