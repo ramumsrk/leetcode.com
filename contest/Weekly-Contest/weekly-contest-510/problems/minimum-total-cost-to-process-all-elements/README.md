@@ -1,0 +1,1 @@
+# [Q2. Minimum Total Cost to Process All Elements](https://leetcode.com/contest/weekly-contest-510/problems/minimum-total-cost-to-process-all-elements/description/)

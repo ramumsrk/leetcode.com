@@ -1,0 +1,1 @@
+# [Q3. Create Grid With Exactly K Paths I](https://leetcode.com/contest/weekly-contest-510/problems/create-grid-with-exactly-k-paths-i/description/)
