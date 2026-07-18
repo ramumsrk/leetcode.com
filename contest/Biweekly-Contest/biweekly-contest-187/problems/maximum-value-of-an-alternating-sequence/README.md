@@ -1,0 +1,1 @@
+# [Q2. Maximum Value of an Alternating Sequence](https://leetcode.com/contest/biweekly-contest-187/problems/maximum-value-of-an-alternating-sequence/description/)

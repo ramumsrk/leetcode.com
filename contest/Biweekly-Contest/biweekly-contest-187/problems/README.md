@@ -1,0 +1,5 @@
+# [problems](https://leetcode.com/contest/biweekly-contest-187/problems)
+1. [Q1. Rearrange String to Avoid Character Pair](./rearrange-string-to-avoid-character-pair/)
+2. [Q2. Maximum Value of an Alternating Sequence](./maximum-value-of-an-alternating-sequence/)
+3. [Q3. Minimum Adjacent Swaps to Partition Array](./minimum-adjacent-swaps-to-partition-array/)
+4. [Q4. Minimum Cost to Convert String III](./minimum-cost-to-convert-string-iii/)
