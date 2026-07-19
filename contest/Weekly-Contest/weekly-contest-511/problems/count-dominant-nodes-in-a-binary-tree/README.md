@@ -1,0 +1,1 @@
+# [Q2. Count Dominant Nodes in a Binary Tree](https://leetcode.com/contest/weekly-contest-511/problems/count-dominant-nodes-in-a-binary-tree/description/)
