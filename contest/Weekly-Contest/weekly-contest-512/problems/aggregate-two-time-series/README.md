@@ -1,0 +1,1 @@
+# [Q2. Aggregate Two Time Series](https://leetcode.com/contest/weekly-contest-512/problems/aggregate-two-time-series/description/)
